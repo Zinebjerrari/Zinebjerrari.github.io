@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(188, 13, 74);
+    margin-left: 35%;
+}
+
+#myCanvas {
+    margin-left: 15%;
+    border: 1px solid black;
+    background-color: lightgray;
+    /*background-image: url("../assets/images/mario.png");*/
+}
+
+video {
+    display:none;
+}
